@@ -1,0 +1,122 @@
+{
+  "main": {
+    "name": "Aravind Kumar",
+    "occupation": "Fullstack and UI Developer ",
+    "description": "I have good programming skills. I know HTML5, CSS3, Bootstarp 4, JavaScript, and React JS Framework and also working MERN Stack, Data Structure, NodeJS, MongoDB, ExpressJS, DBMS, MySQL, Java",
+    "image": "Aravind.png",
+    "bio": "My name is Aravind Kumar, I'm a UI Developer. Currently I'm working at Kopykitab",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "aravindhalahalli.81@gmail.com",
+    "phone": "+91 8296392602",
+    "company": "Kopykitab",
+    "address": {
+      "street": "#303 Vinayaka Layout, BasavanaPura Main Road, KrPuram.",
+      "city": "Bangalore",
+      "state": "Karanataka",
+      "zip": "566036"
+    },
+    "website": "#",
+    "resumedownload": "https://drive.google.com/file/d/1h-7LTZ2rtA-MQlxuePzFC--MtMD5FKQN/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/profile.php?id=100009178026779",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/aravind-kumar-aa50b111b/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/halahalliaravindkumar/?hl=en",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/halahalliaravind",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "PESIT-Bangalore South Campus",
+        "degree": "Information Science and Engineer",
+        "graduated": "August 2019",
+        "description": "Graduated with FirstClass"
+      }
+    ],
+    "work": [
+      {
+        "company": "KopyKitab",
+        "title": "UI Developer",
+        "years": "Jan 2020 - Present",
+        "description": "Working on Developing Product Pages, Email Templates, and Responsice Paages."
+      },
+      {
+        "company": "OneOrigin",
+        "title": "Associate Software Engineer",
+        "years": "July 2019 - Dec 2019",
+        "description": "Building company  website and their client Pages."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "65%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "CSS3",
+        "level": "80%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "70%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MERN Stack Notes Taking Web App",
+        "category": "Its Notes Taking Web App built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "NotesTake.png",
+        "url": "https://take-a-short-note.herokuapp.com/"
+      },
+      {
+        "title": "MERN Stack Social Media Web app",
+        "category": "Its clone of an Instgram[Pixsta] web app built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "Pixsta.png",
+        "url": "https://pixsta.herokuapp.com/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
